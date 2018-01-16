@@ -1,0 +1,4 @@
+
+0(7) : warning C7022: unrecognized profile specifier "unifrom"
+0(7) : error C0502: syntax error at token "unifrom"
+

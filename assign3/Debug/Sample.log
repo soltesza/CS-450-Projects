@@ -1,0 +1,14 @@
+﻿  sample.cpp
+g:\downloads\assign3\sample.cpp(1135): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1224): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1227): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1228): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1239): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1240): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign3\sample.cpp(1245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> G:\Downloads\assign3\.\Debug\Sample.exe

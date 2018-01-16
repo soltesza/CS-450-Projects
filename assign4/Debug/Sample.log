@@ -1,0 +1,24 @@
+﻿  sample.cpp
+g:\downloads\assign4\loadobjfile.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(171): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\loadobjfile.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign4\sample.cpp(179): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+g:\downloads\assign4\sample.cpp(179): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(180): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+g:\downloads\assign4\sample.cpp(180): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(423): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(426): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(427): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(465): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\downloads\assign4\sample.cpp(468): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign4\sample.cpp(469): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> G:\Downloads\assign4\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)

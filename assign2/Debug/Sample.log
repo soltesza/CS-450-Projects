@@ -1,0 +1,15 @@
+﻿  sample.cpp
+g:\downloads\assign2\sample.cpp(441): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(445): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(456): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(825): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign2\sample.cpp(829): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+g:\downloads\assign2\sample.cpp(856): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(858): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(860): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(862): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+g:\downloads\assign2\sample.cpp(1201): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\downloads\assign2\sample.cpp(1259): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> G:\Downloads\assign2\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
